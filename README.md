@@ -5,7 +5,7 @@ BeneditoCarvalho/BeneditoCarvalho is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Benedito%20Carvalho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedito-carvalho/)](https://www.linkedin.com/in/benedito-carvalho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Benedito%20Carvalho-2233cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedito-carvalho/)](https://www.linkedin.com/in/benedito-carvalho/) 
 
 
 ## Atualmente estou estudando
