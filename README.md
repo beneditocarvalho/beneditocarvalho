@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
  - JPA | Hibernate 
  - NoSQL | MongoDB
  - MySQL
+ - PostgreSQL
+ - Postman
  - REST API
  - Heroku
  - HTML | CSS | NodeJs | REACT
