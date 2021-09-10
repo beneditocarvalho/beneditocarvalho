@@ -1,4 +1,4 @@
-## Hi there 👋 [![Linkedin Badge](https://img.shields.io/badge/-Benedito%20Carvalho-00008B?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedito-carvalho/)](https://www.linkedin.com/in/benedito-carvalho/) 
+## Hi there 👋 [![Linkedin Badge](https://img.shields.io/badge/-Benedito%20Carvalho-1a1b27?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedito-carvalho/)](https://www.linkedin.com/in/benedito-carvalho/) 
 
 <!---
 benedito-carvalho/benedito-carvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
