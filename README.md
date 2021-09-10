@@ -5,6 +5,12 @@ benedito-carvalho/benedito-carvalho is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+<div>
+  <a href="https://github.com/benedito-carvalho">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BeneditoCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+ 
+ 
 ## Atualmente estou estudando 
  - Java 8+    
  - FrameWork Spring 
