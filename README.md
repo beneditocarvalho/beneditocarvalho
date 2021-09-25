@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
  - Heroku
  - Docker
  - Microserviços | Spring Cloud
- - HTML | CSS | NodeJs | REACT
+ - Testes Unitários (Junit | Mockito | TDD)
 
 <div>
   <a href="https://github.com/benedito-carvalho">
