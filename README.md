@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
  
 ## Atualmente estou estudando 
  - Java 8+    
- - FrameWork Spring 
+ - Framework Spring 
  - JDBC
  - JPA | Hibernate 
  - NoSQL | MongoDB
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
  - Heroku
  - Docker
  - Microserviços | Spring Cloud
- - Testes Unitários (Junit | Mockito | TDD)
+ - Testes Unitários (JUnit | Mockito | TDD)
 
 <div>
   <a href="https://github.com/benedito-carvalho">
