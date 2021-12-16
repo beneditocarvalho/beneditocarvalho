@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
  - Microserviços | Spring Cloud
  - Testes Unitários (JUnit | Mockito | TDD)
  - HTML | CSS | JavaScript
+ - Angular | Bootstrap
 
 <div>
   <a href="https://github.com/benedito-carvalho">
