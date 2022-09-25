@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
  - Testes Unitários (JUnit | Mockito | TDD)
  - HTML | CSS | JavaScript
  - Angular | Bootstrap
+ - Struts | JSP | EJB
 
 <div>
   <a href="https://github.com/benedito-carvalho">
