@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeneditoCarvalho&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-## Atualmente estou estudando 
+## Stack ##
  - Java 8+    
  - Framework Spring 
  - JDBC
